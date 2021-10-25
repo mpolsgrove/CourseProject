@@ -1,0 +1,13 @@
+1. This team is composed of one team member:
+Matthew Polsgrove
+NetID: polsgro2
+
+2. The topic that I have selected is creating a Firefox extension to index the current page and allow users to search the page contents with a retrieval function. This is an improvement over current search capabilities, and is related to this course because we have covered text retrieval systems.
+
+3. At minimum, I plan to use the BM25 algorithm. Time permitting, I would like to include the option for other algorithms as well.
+
+4. I will demonstrate successful operation by testing example pages to confirm the algorithm is searching the text as expected.
+
+5. The project will primarily be written in Javascript.
+
+6. This project will involve creating a new browser extension, which will index the page, allow the user to enter a query, and search the page using that query and a retrieval method. I believe that this will meet the 20*N hour requirement with a team size of one.
