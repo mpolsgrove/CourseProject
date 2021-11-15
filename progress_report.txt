@@ -1,0 +1,6 @@
+1. As of this writing, the following tasks have been completed:
+   Browser extension pop-up with search bar
+   Create list of documents in page by breaking it up into sentences of text
+2. The following tasks remain to be completed:
+   Searching over documents using BM25.
+3. At this time, no major challenges have presented themselves that would meaningfully impede the completion of this project.
