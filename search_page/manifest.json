@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Indexed Search",
+  "version": "1.0",
+  
+  "description": "Indexes the page and searches with BM25",
+  "icons": {
+    "48": "icons/search-48.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/search-32.png",
+    "default_title": "Indexed Search",
+    "default_popup": "popup/search_bar.html"
+  }
+
+}
